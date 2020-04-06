@@ -1,10 +1,10 @@
 # NLP
 Lexicon SA VS Machine Learning SA
 
-This project mainly to study hotel reviews from Agoda using two methods which are lexical and machine learning method.
+This project mainly to study sentiment analysis of hotel reviews using two methods which are lexical and machine learning method.
 
 # Procedure
-this project has been categorized into four parts.
+This project has been categorized into four parts.
 
 #### Part I
 Using Hotel reviews dataset create lexicon. 
