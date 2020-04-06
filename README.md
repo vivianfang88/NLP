@@ -12,5 +12,6 @@ Using Hotel reviews dataset create lexicon.
 Then use Spacy to do classification. Accuracy is calculated for later use (compare with machine learning method)
 #### Part III
 By using Machine learning method (NaiveBayes) to do hotel reviews sentiment analysis. Difference algorithms such as Bag of words, TF-IDF and word embedding (Doc2vec) are used.
-#### Compare the accuracy
+#### Part IV
+Compare the accuracy
 Compare the accuracy of both methods (lexical analysis and machine learning). However for this part, more classification method are included to determine the best classifier for hotel reviews dataset. The included classifiers are Logistic Regression, NaiveBayes and SVM.
